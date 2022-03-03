@@ -5,12 +5,12 @@
     margin: 0;
 }
 
-/*set the body background-color to */
-
+/*set the body background-color */
 body {
     background-color: #d9dcd6;
 }
 
+/* header class selecte all elemtens in header class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,8 +18,12 @@ body {
     color: #ffffff;
 }
 
+/* class header h1 */
 .header h1 {
+    /*set the text in same line*/
     display: inline-block;
+
+    /*set the text size to 48pixel*/
     font-size: 48px;
 }
 
