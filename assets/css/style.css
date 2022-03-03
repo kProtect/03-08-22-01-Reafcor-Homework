@@ -1,8 +1,11 @@
+/*universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/*set the body background-color to */
 
 body {
     background-color: #d9dcd6;
