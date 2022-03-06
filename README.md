@@ -36,4 +36,4 @@ https://kprotect.github.io/03-08-22-Reafcor-Homework-01/
 <br />
 
 #### 6. Before / After Changes
-![Before] (03-08-22-Reafcor-Homework-01/Before.JPG)
+![Before] (/03-08-22-Reafcor-Homework-01/Before.JPG)
