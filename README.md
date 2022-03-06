@@ -9,6 +9,8 @@ Marketing ageny wants to have a codebase that follows accessbility standards so 
 ### 1. Chganged title "website" to "Horiseon Social Marketing"
 <br />
 
+![title](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/title.JPG?raw=true)
+![changed title](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/changed%20title.JPG?raw=true)
 
 ### 2. Assigend correct symentic element To non sementic div elemtns
     - Added Header
