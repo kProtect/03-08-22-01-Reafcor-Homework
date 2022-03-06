@@ -18,16 +18,18 @@ body {
     color: #ffffff;
 }
 
-/* sets the  */
+/* sets the text in inline-block and font-size to 48px. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* sets the text color to #d9dcd6*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* sets the padding-top 15px, margin-right 20px, float to right, font-family to 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif , font-size to 20px */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,24 +38,27 @@ body {
     font-size: 20px;
 }
 
+/*set the list-style-type to none*/
 .header nav ul {
     list-style-type: none;
 }
 
+/*set the text inline-block , margin-left to 25px*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*set the text color to #ffffff and text-decoration to none. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+ /*set the font-size font-size to 16px.*/
 p {
     font-size: 16px;
 }
-
+/*set the height to 800px, width to 100%, margin-bottom to 25px, background-image to url digital-marketing-meeting.jpb , background-size to cover, background-position to center*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,22 +68,26 @@ p {
     background-position: center;
 }
 
+/*set the float to left , margin-right to 25px*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*set the float to right , margin-left to 25px*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*set the width to 75%, display to inline-block, margin-left to 20px*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*set the margin-right to 20px, padding to 20px, clear to both, float to right, width 20%, height to 100%, font-family to 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, background-color to #2589bd */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -90,16 +99,19 @@ p {
     background-color: #2589bd;
 }
 
+/*set the margin-bottom to 32px and text color to #ffffff */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*set the margin-bottom to 10px, text-align to center*/
 .benefit-lead h3,.benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*set the display to block, margin to 10px and auto, max-width to 150px*/
 .benefit-lead img, .benefit-brand img,.benefit-cost img  {
     display: block;
     margin: 10px auto;
@@ -107,6 +119,7 @@ p {
 }
 
 
+/* set the margin-bottom to 20px, padding to 50px, height to 300px, font-family to 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, background-color to #0072bb, text color to #ffffff  */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,16 +129,18 @@ p {
     color: #ffffff;
 }
 
-
+/*set the max-height to 200px*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
     max-height: 200px;
 }
 
+/*set the margin-bottom to 20px , font-size to 36px*/
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2  {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*set the padding to 30px, clear to both, font-family to 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, text-align to center*/
 .footer {
     padding: 30px;
     clear: both;
@@ -133,6 +148,7 @@ p {
     text-align: center;
 }
 
+/*set the font-size to 20px*/
 .footer h2 {
     font-size: 20px;
 }
