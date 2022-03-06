@@ -9,6 +9,7 @@ Marketing ageny wants to have a codebase that follows accessbility standards so 
 ### 1. Chganged title "website" to "Horiseon Social Marketing"
 <br />
 
+
 ### 2. Assigend correct symentic element To non sementic div elemtns
     - Added Header
     - Added Nav
@@ -19,8 +20,17 @@ Marketing ageny wants to have a codebase that follows accessbility standards so 
     - Added Footer
 <br />
 
+![before img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/Before.JPG?raw=true)
+
+![after img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/After.JPG?raw=true)
+
 ### 3. Added correct comment on CSS file
 <br />
+
+![before css img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/Before%20CSS.JPG?raw=true)
+
+![after css img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/After%20CSS.JPG?raw=true)
+
 
 ### 4. Deployd live URL 
 https://kprotect.github.io/03-08-22-Reafcor-Homework-01/
@@ -34,20 +44,3 @@ https://kprotect.github.io/03-08-22-Reafcor-Homework-01/
     - Brand Awareness Icon
     - Cost-management Icon
 <br />
-
-### 6. Before / CSS
-<br />
-
-![before img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/Before.JPG?raw=true)
-![before2 img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/Before2.JPG?raw=true)
-!
-![before css img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/Before%20CSS.JPG?raw=true)
-
-### 7. After
-![after img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/After.JPG?raw=true)
-![after2 img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/After2.JPG?raw=true)
-![after3 img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/After%203.JPG?raw=true)
-<br />
-
-
-![after css img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/After%20CSS.JPG?raw=true)
