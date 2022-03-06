@@ -1,16 +1,16 @@
-/*universal selector for this webpage*/
+/*sets the box-sizing to border-box and padding 0  and margin 0*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/*set the body background-color */
+/*set the body background-color to #d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
 
-/* header class selecte all elemtens in header class */
+/* set the padding 20px , font-family Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, background-color to #2a607c, text color to #ffffff  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,21 +18,17 @@ body {
     color: #ffffff;
 }
 
-/* class header h1 */
+/* sets the  */
 .header h1 {
-    /*set the text in same line*/
     display: inline-block;
-
-    /*set the text size to 48pixel*/
     font-size: 48px;
 }
 
 .header h1 .seo {
-    /*set the color */
     color: #d9dcd6;
 }
 
-.header menu {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,11 +36,11 @@ body {
     font-size: 20px;
 }
 
-.header menu ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header menu ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
