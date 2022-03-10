@@ -34,6 +34,7 @@ Marketing ageny wants to have a codebase that follows accessbility standards so 
 ![after css img](https://github.com/kProtect/03-08-22-Reafcor-Homework-01/blob/main/assets/images/After%20CSS.JPG?raw=true)
 
 
+
 ### 4. Deployd live URL 
 https://kprotect.github.io/03-08-22-Reafcor-Homework-01/
 <br />
@@ -46,3 +47,5 @@ https://kprotect.github.io/03-08-22-Reafcor-Homework-01/
     - Brand Awareness Icon
     - Cost-management Icon
 <br />
+
+### 6. Added id="search-engine-optimization" to fix the broken link.
